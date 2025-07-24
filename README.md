@@ -1,4 +1,4 @@
 # demo_project
 this is my first demo project.
 <br></br>
-author = suchitra pradhan>
+author = suchitra pradhan
